@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.consultaiestpargentina.app"
+    version   = "1.0.0">
+
+<name>CONSULTA DE DATOS DE ALUMNOS</name>
+
+<description>
+Aplicación para consultar los datos de los alumnos matrculados en el IESTP-ARGENTINA
+</description>
+
+<author href="https://example.com" email="webmaster@consultawebistpargentina.site40.net">
+HENRY MIGUEL OBANDO JACOBI
+</author>
+
+</widget>
